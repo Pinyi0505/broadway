@@ -5,3 +5,8 @@ h1, h2, h3, h4, h6, p {
 * {
   font-family: Helvetica;
 }
+
+h5 {
+  background-color: gray;
+  color: white;
+}
