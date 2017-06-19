@@ -8,5 +8,12 @@ h1, h2, h3, h4, h6, p {
 
 h5 {
   background-color: gray;
+}
+
+.white, a {
   color: white;
+}
+
+a {
+  text-decoration: underline;
 }
